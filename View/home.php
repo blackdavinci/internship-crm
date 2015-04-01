@@ -194,7 +194,8 @@
 
 			<div class="clearfix"></div>
 		</div>
-		
+		<div class="row">
+		</div>
       <!-- /tabs -->     
     
      </div><!-- /.container -->

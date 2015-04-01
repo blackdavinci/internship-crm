@@ -100,24 +100,10 @@ body{}
 /**********************/
 #contour_tabs
 {
-	padding-right : 0p;
+	padding-right : 0px;
 	position:fixed;
-	z-index:;
 }
-.tri {
-  transition: top .4s linear 0;
-  -moz-transition: top .4s linear 0;
-  -webkit-transition: top .4s linear 0;
-  -o-transition: top .4s linear 0;
-  background: url("img/menu-active-large.png") no-repeat scroll right center transparent!important;
-  z-index: 100;
-  width: 10px;
-  height: 17px;
-  position: absolute;
-  right: -1px;
-  top: 15px;
-  
-}
+
 .tabs-left
 {
 	padding-top:1em;
